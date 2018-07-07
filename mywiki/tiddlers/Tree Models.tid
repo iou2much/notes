@@ -1,0 +1,9 @@
+created: 20180707075829715
+creator: user
+modified: 20180707080110569
+modifier: user
+title: Tree Models
+tmap.edges: {"d69cbb7a-9278-472a-b461-166a068beb47":{"to":"c4f64a99-8948-45fa-be16-235a01de2145","type":"inc"},"f1110625-ed74-459d-a3c0-9a0ffe3afa36":{"to":"a7d954a3-f652-4a71-9780-b79f41c0ca4b","type":"inc"},"6458e198-5eed-42a9-868d-56ffaa1d139a":{"to":"4f390f71-147b-4c63-b207-ea8676c6a75e","type":"inc"},"17946df7-0f13-4cc3-b779-0fd077c8813c":{"to":"cc55fc64-6acf-45c3-95a1-9e5a4cd8b5b3","type":"inc"},"04fff094-6a22-4c12-a25d-4ab023eebeca":{"to":"7d8a3920-6482-4e29-acd8-a35b1892bf8a","type":"inc"}}
+tmap.id: a0163f9b-22cb-436a-bb8e-3cf1a38e66f3
+type: text/vnd.tiddlywiki
+
